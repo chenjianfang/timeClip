@@ -8,4 +8,8 @@ Useage：
 
   此功能是根据公司项目需要写的，移植到其他项目复用性不强，但针对本公司项目的时间切割长度有很好的扩展性。
 
+<<<<<<< HEAD
 //从dev分支pull然后add commit
+=======
+//test git devloop tool?
+>>>>>>> a5ab9fda1486a9f855eaa20df1a337772d17af6e
